@@ -1,0 +1,2 @@
+# SimpleManager
+Simple Shop Manager
